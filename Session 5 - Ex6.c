@@ -16,7 +16,7 @@ int main() {
 
         switch (choice) {
             case 1:
-                printf("Nh?p so thu nhat: ");
+                printf("Nhap so thu nhat: ");
                 scanf("%f", &num1);
                 printf("Nhap so thu hai: ");
                 scanf("%f", &num2);
